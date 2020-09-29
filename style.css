@@ -1,0 +1,18 @@
+body {
+    background-color: #34495e;
+    margin-right: 0px;
+    margin-left: 0px;
+    margin-bottom: 0px;
+    margin-top: 0;
+    display: block;
+}
+
+td {
+    font-size: 11px;
+    font-family: Verdana;
+    line-height: 15px;
+}
+
+ul {
+    padding: 0 40px;
+}
